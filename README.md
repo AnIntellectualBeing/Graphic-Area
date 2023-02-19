@@ -1,2 +1,2 @@
 # Graphic-Area
-Website for Graphic era students
+Website for students
